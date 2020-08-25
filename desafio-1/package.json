@@ -1,0 +1,13 @@
+{
+  "name": "desafio-docker-1",
+  "version": "1.0.0",
+  "description": "Maratona FullCycle 4.0",
+  "author": "Cleber Ribeiro <cleber.ramos.ribeirot@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
